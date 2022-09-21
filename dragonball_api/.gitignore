@@ -135,3 +135,5 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+
+SECRET_KEY = 'django-insecure-=l3cy-ju9_hgx@!_4(47v^%c7138t0)j&(i7(#4g=00*$u9*6b'
